@@ -6,6 +6,14 @@ Historique des versions du hub Mondary.
 
 ## Releases
 
+### [2026.10.5] - 2026-10-07
+#### Changed
+- PKarchives : les crédits disposent désormais d’une rubrique dédiée dans les réglages, plutôt que d’être intégrés à À propos (FR/EN).
+
+### [2026.10.4] - 2026-10-07
+#### Changed
+- Carte PKarchives FR/EN : ajout des crédits/outils dans À propos parmi les fonctionnalités.
+
 ### [2026.10.3] - 2026-10-02
 #### Added
 - 4 apps au hub : PK Media Downloader (macOS), PK New Tab (Chrome), ImgRalph (Web) et Lumen Tarot (Web), avec icônes et captures optimisées en webp et traductions EN.
