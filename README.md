@@ -1,6 +1,6 @@
 # Mondary — Hub des apps
 
-Version **2026.11.6**
+Version **2026.11.7**
 
 PK Bluetooth dispose d’une fiche Android et d’une page locale dans `pk-bluetooth/`, générée depuis `Android_PKbluetooth/store/` par `scripts/website.sh` dans le dépôt de l’app.
 

@@ -6,6 +6,11 @@ Historique des versions du hub Mondary.
 
 ## Releases
 
+## [2026.11.7] - 2026-11-23
+
+### Changed
+- Ajout du motif Bluetooth répétable à la page PK Bluetooth.
+
 ## [2026.11.6] - 2026-11-23
 
 ### Added
