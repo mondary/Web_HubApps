@@ -1,5 +1,9 @@
 # Mondary — Hub des apps
 
+Version **2026.11.6**
+
+PK Bluetooth dispose d’une fiche Android et d’une page locale dans `pk-bluetooth/`, générée depuis `Android_PKbluetooth/store/` par `scripts/website.sh` dans le dépôt de l’app.
+
 [🇫🇷 FR](README.md) · [🇬🇧 EN](README_en.md)
 
 Hub web centralisant les apps Mondary : présentation des apps, page cinéma et collection de wallpapers. Site statique autonome, ouvrable directement dans un navigateur.

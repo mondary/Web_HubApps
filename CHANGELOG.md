@@ -6,6 +6,11 @@ Historique des versions du hub Mondary.
 
 ## Releases
 
+## [2026.11.6] - 2026-11-23
+
+### Added
+- Ajout de PK Bluetooth dans le hub et d’un filtre Android.
+
 ### [2026.10.5] - 2026-10-07
 #### Changed
 - PKarchives : les crédits disposent désormais d’une rubrique dédiée dans les réglages, plutôt que d’être intégrés à À propos (FR/EN).
